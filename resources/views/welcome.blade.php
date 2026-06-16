@@ -2169,7 +2169,8 @@
 
 <body
     class="font-sans text-center bg-[#FDFDFC] dark:bg-[#0a0a0a] text-[#1b1b18] flex p-6 lg:p-8 items-center lg:justify-center min-h-screen flex-col">
-    <div class=" w-full max-w-2xl rounded-xl text-black dark:text-white bg-[#ffffff] dark:bg-[#1b1b18] p-6 lg:p-8 text-center">
+    <div
+        class=" w-full max-w-2xl rounded-xl text-black dark:text-white bg-[#ffffff] dark:bg-[#1b1b18] p-6 lg:p-8 text-center">
         <h1 class=" text-4xl mb-6">Whereas recognition of the inherent dignity</h1>
         <ul>
             <i class="ph ph-smiley"></i>
@@ -2181,8 +2182,10 @@
         </ul>
     </div>
     @include('customised')
-    @include('partials.samplefile')
+    @include('partials.samplefile') 
+    @include('partials.btns')
     @include('partials.basicfooter')
+
 </body>
 
 </html>
