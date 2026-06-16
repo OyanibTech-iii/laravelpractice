@@ -21,5 +21,6 @@
         <div class=" w-full max-w-2xl rounded-xl text-white bg-[#ffffff] dark:bg-[#1b1b18] p-6 lg:p-8 text-center">
             <h1 class=" text-4xl mb-6">Whereas recognition of the inherent dignity</h1>
         </div>
+        @include('customised')
     </body>
 </html>
