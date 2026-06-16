@@ -17,11 +17,9 @@
             </style>
         @endif
     </head>
-    <body class="bg-[#FDFDFC] dark:bg-[#0a0a0a] text-[#1b1b18] flex p-6 lg:p-8 items-center lg:justify-center min-h-screen flex-col">
-        <div class="w-full max-w-2xl rounded-xl text-white bg-[#ffffff] dark:bg-[#1b1b18] p-6 lg:p-8 text-center">
-            <h1 class="text-4xl font-bold mb-6">Get Started</h1>
-            <p class="text-lg mb-6">Your journey to building amazing applications starts here.</p>
-            <a href="https://laravel.com/docs" class="inline-block bg-[#007BFF] text-white px-6 py-3 rounded-lg hover:bg-[#0056b3] transition-colors duration-300">Get Started</a>
+    <body class="font-sans text-center bg-[#FDFDFC] dark:bg-[#0a0a0a] text-[#1b1b18] flex p-6 lg:p-8 items-center lg:justify-center min-h-screen flex-col">
+        <div class=" w-full max-w-2xl rounded-xl text-white bg-[#ffffff] dark:bg-[#1b1b18] p-6 lg:p-8 text-center">
+            <h1 class=" text-4xl mb-6">Whereas recognition of the inherent dignity</h1>
         </div>
     </body>
 </html>
