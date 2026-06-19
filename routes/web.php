@@ -9,3 +9,4 @@ Route::get('/', function () {
 Route::get('/admin_dashboard', function () {
     return view('dashboard');
 })->middleware(['auth'])->name('admin_dashboard');
+
